@@ -1,2 +1,3 @@
 name: Srikanth Vudutha
-	markdown: Angular
+markdown: Angular
+permalink: /blog/:year/:month/:day/:title
